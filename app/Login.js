@@ -5,7 +5,7 @@ class Login extends Component {
   render() {
     return (
       <View style={styles.container}>
-        <TextInput style={styles.input} placeholder=" Email" />
+        <TextInput style={styles.input} placeholder=" Email/Username" />
         <TextInput
           style={styles.input}
           placeholder=" Password"

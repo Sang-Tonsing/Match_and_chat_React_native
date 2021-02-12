@@ -8,10 +8,3 @@ const App = () => {
 };
 
 export default App;
-
-// const styles = StyleSheet.create({
-//   layout: {
-//     justifyContent: "center",
-//     alignItems: "center",
-//   },
-// });
